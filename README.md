@@ -26,7 +26,7 @@ Los usuarios deben ser capaces de:
 - Poder eliminar los elementos del carrito.
 - Ver como el contador decrementa.
 
-### Screenshot
+### Screenshoot
 ![](./Captura2.png)
 
 ### Links
@@ -38,15 +38,15 @@ Los usuarios deben ser capaces de:
 - Semantic HTML5
 - CSS3
 - Bootstrap
-- Javascriopt ES6
+- Javascript ES6
 
 ### ¿Que he aprendido?
 - He aprendido a gestionar el estado general de una aplicacion.
 - He aprendido a crear y gestionar elementos arrastrables.
 
-### Kaizen o Desarollo Continuado
-- Para un futuro me gustaria mejorar el diseño de la aplicación
-- Me gustaria investigar mas sobre el drag and drop y su uso en movil ya que no me ha funcionado.
+### Kaizen o Desarrollo Continuado
+- Para un futuro me gustaría mejorar el diseño de la aplicación
+- Me gustaria investigar más sobre el drag and drop y su uso en móvil ya que no me ha funcionado.
 
 
 ## Autor
