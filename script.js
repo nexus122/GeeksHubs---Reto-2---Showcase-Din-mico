@@ -17,7 +17,7 @@ function drawProducts() {
     /* Dibujamos los elementos en el DOM */
     Estado.productos.forEach(element => {
         let template = `
-        <div class="card" id="${element.id}" draggable="true" ondragstart="drag(event)">            
+        <div class="card col col-sm-12 col-md-5" id="${element.id}" draggable="true" ondragstart="drag(event)">            
             <div class="card-img-top" style="background-image:url(${element.image})"></div>
             <div class="card-body">
                 <h6 class="card-title">${element.title}</h6>
@@ -51,7 +51,7 @@ function drop(ev) {
 
     /* Creación de un carrito de la compra */
     cartElement.innerHTML = `
-    <span class="d-flex cart-element">        
+    <span class="d-flex cart-element">
         <div>
             <span class="card-title"><b>${producto.title}</b></span>
             <span>${producto.price}€</span>
