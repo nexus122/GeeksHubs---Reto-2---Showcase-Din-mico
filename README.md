@@ -27,7 +27,7 @@ Los usuarios deben ser capaces de:
 - Ver como el contador decrementa.
 
 ### Screenshot
-![](./Captura 2.png)
+![](./Captura2.png)
 
 ### Links
 - Solution URL: [Code](https://github.com/nexus122/GeeksHubs---Reto-2---Showcase-Din-mico)
