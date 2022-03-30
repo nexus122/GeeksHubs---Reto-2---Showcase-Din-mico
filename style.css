@@ -1,0 +1,51 @@
+:root{
+    --primary: #062C30;
+    --secondary: #05595B;
+    --tertiary: #E2D784;
+    --quaternary: #F5F5F5;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100vh;
+}
+
+.retail{
+    width: 80%;
+    background-color: var(--secondary);
+}
+.side{
+    width: 20%;
+    background-color: var(--primary);
+}
+
+.cart-top{
+    padding: 1em;
+    background-color: var(--quaternary);
+    color: black;
+}
+
+.cart-top{
+    text-align: center;
+}
+
+.retail{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.retail div{
+    width: 90%;
+    height: 90%;
+    background-color: var(--tertiary);
+}
