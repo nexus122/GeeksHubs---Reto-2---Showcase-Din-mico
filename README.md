@@ -9,11 +9,11 @@ Se deben crear los elementos dentro del carrito y deben poder borrarse.
 ## Tabla de contenido
 - [Empezamos](#Empezamos)
 	- [El reto](#El-reto)
-	- [Screenshot](#Screenshot)
+	- [Screenshoot](#Screenshoot)
 	- [Links](#Links)
 - [Proceso de creación](#Proceso-de-creación)
 	- [¿Que he aprendido?](#¿Que-he-aprendido?)
-	- [Kaizen o Desarollo Continuado](#Kaizen-o-Desarollo-Continuado)
+	- [Kaizen o Desarrollo Continuado](#Kaizen-o-Desarrollo-Continuado)
 - [Autor](#Autor)
 
 ## Empezamos
