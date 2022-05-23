@@ -7,15 +7,16 @@ La forma de interactuar con el carrito es arrastrar los elementos de la tienda h
 Se deben crear los elementos dentro del carrito y deben poder borrarse.
 
 ## Tabla de contenido
-- [Empezamos](#Empezamos)
-	- [El reto](#El-reto)
-	- [Screenshoot](#Screenshoot)
-	- [Links](#Links)
-	- [¿Como hacerlo funcionar?](#¿Como-hacerlo-funcionar?)
-- [Proceso de creación](#Proceso-de-creación)
-	- [¿Que he aprendido?](#¿Que-he-aprendido?)
-	- [Kaizen o Desarrollo Continuado](#Kaizen-o-Desarrollo-Continuado)
-- [Autor](#Autor)
+- [➡️Empezamos](#Empezamos)
+	- [📜El reto](#El-reto)
+	- [🖼️ Screenshoot](#Screenshoot)
+	- [🔗Links](#Links)
+	- [⚙️¿Como hacerlo funcionar?](#¿Como-hacerlo-funcionar?)
+	- [🎠Uso de la aplicación](#Uso-de-la-aplicación)
+- [🎨Proceso de creación](#Proceso-de-creación)
+	- [🧠¿Que he aprendido?](#¿Que-he-aprendido?)
+	- [🔄Kaizen o Desarrollo Continuado](#Kaizen-o-Desarrollo-Continuado)
+- [👨‍💻Autor](#Autor)
 
 ## Empezamos
 ### El reto
