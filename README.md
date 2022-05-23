@@ -1,4 +1,4 @@
-# GeeksHubs---Reto-2---Showcase-Din-mico
+# GeeksHubs Reto-2 Showcase Dinámico
 
 **Descripcion:**
 **Reto2 de GeekHubs**, Curso Frontend Angular.
@@ -53,8 +53,9 @@ git clone https://github.com/nexus122/GeeksHubs---Reto-2---Showcase-Dinamico.git
 - He aprendido a crear y gestionar elementos arrastrables.
 
 ### Kaizen o Desarrollo Continuado
-- Para un futuro me gustaría mejorar el diseño de la aplicación
+- Para un futuro me gustaría mejorar el diseño de la aplicación.
 - Me gustaria investigar más sobre el drag and drop y su uso en móvil ya que no me ha funcionado.
+- Acumular en una unica tarjeta los productos repetidos, permitir añadir cantidad de productos desde las tarjetas.
 
 
 ## Autor
