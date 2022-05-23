@@ -11,6 +11,7 @@ Se deben crear los elementos dentro del carrito y deben poder borrarse.
 	- [El reto](#El-reto)
 	- [Screenshoot](#Screenshoot)
 	- [Links](#Links)
+	- [¿Como hacerlo funcionar?](¿Como-hacerlo-funcionar?)
 - [Proceso de creación](#Proceso-de-creación)
 	- [¿Que he aprendido?](#¿Que-he-aprendido?)
 	- [Kaizen o Desarrollo Continuado](#Kaizen-o-Desarrollo-Continuado)
@@ -32,6 +33,13 @@ Los usuarios deben ser capaces de:
 ### Links
 - Solution URL: [Code](https://github.com/nexus122/GeeksHubs---Reto-2---Showcase-Din-mico)
 - Live Site URL: [Demo](https://nexus122.github.io/GeeksHubs---Reto-2---Showcase-Din-mico/)
+
+### ¿Como hacerlo funcionar?
+- Necesitas tener instalado git
+- Utilizar el siguiente comando
+```` console
+git clone https://github.com/nexus122/GeeksHubs---Reto-2---Showcase-Dinamico.git
+````
 
 ## Proceso de creación
 ### ¿Con que esta hecho?
