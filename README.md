@@ -11,7 +11,7 @@ Se deben crear los elementos dentro del carrito y deben poder borrarse.
 	- [El reto](#El-reto)
 	- [Screenshoot](#Screenshoot)
 	- [Links](#Links)
-	- [¿Como hacerlo funcionar?](¿Como-hacerlo-funcionar?)
+	- [¿Como hacerlo funcionar?](#¿Como-hacerlo-funcionar?)
 - [Proceso de creación](#Proceso-de-creación)
 	- [¿Que he aprendido?](#¿Que-he-aprendido?)
 	- [Kaizen o Desarrollo Continuado](#Kaizen-o-Desarrollo-Continuado)
@@ -40,6 +40,14 @@ Los usuarios deben ser capaces de:
 ```` console
 git clone https://github.com/nexus122/GeeksHubs---Reto-2---Showcase-Dinamico.git
 ````
+
+### Uso de la aplicación
+- El usuario ve una pantalla llena de productos y una barra lateral derecha que es el carrito.
+	- El usuario puede navegar con el scroll para ver todos los productos.
+- El usuario puede arrastrar productos a la columna derecha.
+	- El usuario puede navegar con el scroll en la columna derecha si hay demasiados elementos en el carrito.
+- El usuario puede ver el total del carrito en lo alto de la columna derecha.
+- El usuario puede borrar elementos del carrito, y el precio se vera afectado.
 
 ## Proceso de creación
 ### ¿Con que esta hecho?
