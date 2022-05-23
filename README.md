@@ -50,6 +50,6 @@ Los usuarios deben ser capaces de:
 
 
 ## Autor
-- Website - [CV online](http://juanpabloromeropereira.es/)
+- Website - [Portfolio](https://jp-curriculum.super.site/)
 - Linkedin - [Linkedin](https://www.linkedin.com/in/juan-pablo-romero-pereira-523996101/)
 - Github - [@nexus122](https://github.com/nexus122)
